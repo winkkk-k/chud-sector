@@ -159,7 +159,7 @@
   abstract: true
   components:
   - type: Prying #Switched from Tools component to this
-    speedModifier: 4 # Goob - xeno buff
+    speedModifier: 5 # Goob - xeno buff
     pryPowered: true
     useSound: /Audio/Machines/airlock_creaking.ogg
   - type: ComplexInteraction
